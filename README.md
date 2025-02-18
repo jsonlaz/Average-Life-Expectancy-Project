@@ -34,7 +34,7 @@ The analysis is performed in Microsoft Excel. It consists of the following key s
 
 The dashboard provides a visual overview of key factors influencing life expectancy across different regions, categorized by "Developed" and "Developing" economic statuses.
 
-![Interactive Visualization Using Power BI](https://github.com/jsonlaz/E-Commerce-Analysis/blob/main/visualization/E-commerce%20Customer%20Behavior%20Analysis.pbix)
+[Interactive Dashboard Using Excel](https://github.com/jsonlaz/Average-Life-Expectancy-Project/blob/main/Life%20Expectancy.PNG)
 
 ## Results:
 
